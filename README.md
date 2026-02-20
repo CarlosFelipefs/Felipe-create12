@@ -45,9 +45,9 @@ ASP.NET MVC + Banco de Dados + Controle de Estoque
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-felipe-fernandes-746705290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-📧 Email: seuemail@email.com
+📧 Email: carlosfelipef7@hotmail.com
 
 <!--
 **Felipe-create12/Felipe-create12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
